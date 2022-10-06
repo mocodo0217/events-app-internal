@@ -149,3 +149,13 @@ ls
 wget https://storage.googleapis.com/deloitte-training/events-app.zip
 unzip events-app.zip
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/mocodo0217/events-app-internal.git
+git push -u origin main
+git push -u origin main
+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
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git init
